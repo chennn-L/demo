@@ -1,3 +1,5 @@
+DOM回顾
+
 • 根据id名获取：getElementById() 返回的是一个元素对象
 • console.dir() 打印返回的元素对象，查看里面的属性和方法
 • 根据标签名获取：getElementByTagName()返回带有指定标签名的对象的集合
